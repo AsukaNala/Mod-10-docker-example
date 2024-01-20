@@ -31,6 +31,7 @@ function LoginForm() {
 
   return (
     <div className="LoginForm componentBox">
+      <h1>This is Docker Action Practice</h1>
       <h3>Login</h3>
       <form onSubmit={handleSubmit}>
         <label>
